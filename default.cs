@@ -3,7 +3,7 @@ using System;
 namespace rmeOrganizer
 {
 	/// <summary>
-	/// Zusammenfassung für Defaults.
+	/// Zusammenfassung für die Standardeinstellungen.
 	/// </summary>
 	public class Defaults
 	{
